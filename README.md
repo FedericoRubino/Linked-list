@@ -1,2 +1,2 @@
-# Linked-list-
+# Linked-list
 project using doubly linked list
